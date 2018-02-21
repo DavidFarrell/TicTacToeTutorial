@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TicTacToeWeb.data.unityweb",
+"asmCodeUrl": "TicTacToeWeb.asm.code.unityweb",
+"asmMemoryUrl": "TicTacToeWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "TicTacToeWeb.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
